@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biryulinyuri.github.io/static/css/main.cbb2ece8.chunk.css",
+    "main.js": "/biryulinyuri.github.io/static/js/main.4412c25d.chunk.js",
+    "main.js.map": "/biryulinyuri.github.io/static/js/main.4412c25d.chunk.js.map",
+    "runtime-main.js": "/biryulinyuri.github.io/static/js/runtime-main.f462157e.js",
+    "runtime-main.js.map": "/biryulinyuri.github.io/static/js/runtime-main.f462157e.js.map",
+    "static/js/2.e407f60c.chunk.js": "/biryulinyuri.github.io/static/js/2.e407f60c.chunk.js",
+    "static/js/2.e407f60c.chunk.js.map": "/biryulinyuri.github.io/static/js/2.e407f60c.chunk.js.map",
+    "index.html": "/biryulinyuri.github.io/index.html",
+    "precache-manifest.de9754c30f6e0c8d5a55be702346e014.js": "/biryulinyuri.github.io/precache-manifest.de9754c30f6e0c8d5a55be702346e014.js",
+    "service-worker.js": "/biryulinyuri.github.io/service-worker.js",
+    "static/css/main.cbb2ece8.chunk.css.map": "/biryulinyuri.github.io/static/css/main.cbb2ece8.chunk.css.map",
+    "static/js/2.e407f60c.chunk.js.LICENSE.txt": "/biryulinyuri.github.io/static/js/2.e407f60c.chunk.js.LICENSE.txt",
+    "static/media/user.png": "/biryulinyuri.github.io/static/media/user.4b71f813.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f462157e.js",
+    "static/js/2.e407f60c.chunk.js",
+    "static/css/main.cbb2ece8.chunk.css",
+    "static/js/main.4412c25d.chunk.js"
+  ]
+}
